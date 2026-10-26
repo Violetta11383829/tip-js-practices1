@@ -13,3 +13,6 @@
 - [Практическая работа № 1](./practice-01/README.md)
 - [Практическая работа № 2](./practice-02/README.md)
 - [Практическая работа № 3](./practice-03/README.md)
+
+## Ссылка на сайт
+file:///Users/violettachizhova/Desktop/%D0%9C%D0%BE%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8_%20%D1%81%D0%B0%D0%B8%CC%86%D1%82%20%D0%9F%D0%A03%20(%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%206).html
